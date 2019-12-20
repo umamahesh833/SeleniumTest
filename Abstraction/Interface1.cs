@@ -9,6 +9,7 @@ namespace Abstraction
     interface Interface1
     {
         abstract public void Facemethod();
+        changes made
 
     }
 }
